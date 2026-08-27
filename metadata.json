@@ -1,0 +1,6 @@
+{
+  "name": "My Mood Buddy",
+  "description": "A simple, colorful, kid-friendly app to help children choose how they feel with emojis, quotes, and encouraging messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
